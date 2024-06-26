@@ -1,6 +1,6 @@
 package types
 
-type Players struct {
+type Player struct {
 	ID   int
 	X    int
 	Y    int
